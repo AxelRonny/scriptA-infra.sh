@@ -1,0 +1,1 @@
+# scriptA-infra.sh
